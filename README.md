@@ -137,8 +137,11 @@ All data is stored in browser **localStorage**:
 
 ## 📄 License
 
+## Drive link : https://drive.google.com/drive/folders/1BGe6qLUQ3jK55JVt0WsQB-jCr3m-dmF5?usp=sharing
+
 This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
 
 Built as a demonstration of modern web development practices using vanilla JavaScript.
+
